@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tevn23
-- 👀 I’m interested in software engineering.
+- 👀 I’m interested in software engineering and cyber-security.
 - 🌱 I’m currently learning Full-stack engineering at ALX.
 - 💞️ I’m looking to collaborate on ALX SE projects.
 - 📫 How to reach me mabulatt23@gmail.com
